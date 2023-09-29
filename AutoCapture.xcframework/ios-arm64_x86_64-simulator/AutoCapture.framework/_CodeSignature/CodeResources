@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Q61MYAiLScmkuQdIxoPIAkmQZ2Y=
+		uYoaMyM73kpgHmE9+8KD0fwablo=
 		</data>
 		<key>Base.lproj/capture.storyboardc/13J-Ig-QaV-view-x3x-8F-03R.nib</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/AutoCapture.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pDRf13C5tUKUh993o9M04CiaBq4=
+		mk8/rEYgZmpjcafvfyfncnaKhII=
 		</data>
 		<key>Modules/AutoCapture.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Modules/AutoCapture.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		32cCVw3d0zr3C5gcxSVgvUqyrH0=
+		JKBr9TuIOGdHGS8CLZz2CT/kew4=
 		</data>
 		<key>Modules/AutoCapture.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pDRf13C5tUKUh993o9M04CiaBq4=
+		mk8/rEYgZmpjcafvfyfncnaKhII=
 		</data>
 		<key>Modules/AutoCapture.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/AutoCapture.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ar7FxlBJwl/9GDMjT25ihDJiaoQ=
+		TREX0uD1KJnnkIJ/qqqTp0PTrgU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -223,7 +223,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SCfBgip7TB1I14b6CBhq1p9IX4dhfMLkGGVM33p6lyg=
+			ufN9RLncvOzdBSCYWk18juU6cQr6bTjYdiVD5grO4FM=
 			</data>
 		</dict>
 		<key>Base.lproj/capture.storyboardc/13J-Ig-QaV-view-x3x-8F-03R.nib</key>
@@ -398,7 +398,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y4p2k1cYgZ56cFQlzQw9g2R/4pgbhe2sGkw5U0LuqDo=
+			HsDVGRTjXXn76is25cF2qGUpeA5g6RdBgPBQUC/Mvq8=
 			</data>
 		</dict>
 		<key>Modules/AutoCapture.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -426,14 +426,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oomRZr17SZpsGbAnm3/y0AoCCL5j2+5eMMuX/Alkr5A=
+			TLsO6m+mxlartsbfXW9NP54KocKyr6AlSfarFW/aebI=
 			</data>
 		</dict>
 		<key>Modules/AutoCapture.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y4p2k1cYgZ56cFQlzQw9g2R/4pgbhe2sGkw5U0LuqDo=
+			HsDVGRTjXXn76is25cF2qGUpeA5g6RdBgPBQUC/Mvq8=
 			</data>
 		</dict>
 		<key>Modules/AutoCapture.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -461,7 +461,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iboHtYKDmutoGWaYavjDSWvz3/hAF8mRkNmXpQxITLs=
+			cYXLFTVJy7G8yLZW2k6MGVaeHUydpMYp/ikat6qyYP8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

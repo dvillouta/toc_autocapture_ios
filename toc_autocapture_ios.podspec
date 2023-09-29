@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 	s.swift_version         = "5"
 	s.requires_arc          = true
 	s.name                  = "toc_autocapture_ios"
-	s.version               = "1.0.1"
+	s.version               = "1.0.2"
 	s.homepage              = "https://github.com/dvillouta/toc_autocapture_ios"
 	s.author                = { "Diego Villouta" => "diego.villouta@sovos.com" }
 	s.summary               = "TOC AutoCapture iOS XCFramework"
